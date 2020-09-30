@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Bucket
-   uuid = "1A3FBDE7-8BAF-408F-810A-4AD2BE26843E"
+   uuid = "08584225-609C-4C03-AA3E-70CADF0AC3F9"
    type = "1"
    version = "2.0">
    <Breakpoints>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "2198486F-B074-4B29-9E92-03A84D0E25F1"
+            uuid = "124E2D66-74BA-45A7-A9ED-448A6085880E"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "&#x1100;&#x1175;&#x1102;&#x1173;&#x11bc;&#x1100;&#x1162;&#x1107;&#x1161;&#x11af;(LEVEL 2)/main.cpp"
-            timestampString = "622873180.391969"
+            filePath = "&#x1100;&#x1161; &#x110f;&#x1173;&#x11ab;&#x1109;&#x116e; (LEVEL 2)/main.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "21"
-            endingLineNumber = "21"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
             landmarkName = "main(argc, argv)"
             landmarkType = "9">
          </BreakpointContent>
